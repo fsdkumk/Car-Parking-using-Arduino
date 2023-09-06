@@ -1,6 +1,6 @@
-# Parking-using-Arduino
+# GROUP 6
 IoT Parking system using Arduino.
-The name of the project for GROUP 6 is Parking System. This project is made using the main component which is arduino.
+The name of the project is Parking System. This project is made using the main component which is arduino.
 The component that being using are arduino, servo motor, IR sensor 1, IR sensor 2 and 12c module.
 
 Here are some pictures that were taken during the event:
@@ -9,3 +9,5 @@ Here are some pictures that were taken during the event:
 ![image](https://github.com/fsdkumk/IoT-Parking-System-using-Arduino/assets/141599942/b63e16a1-e990-4b2b-a417-f62cb26ad533)
 
 ![s](https://github.com/fsdkumk/IoT-Parking-System-using-Arduino/assets/141599942/12fac98d-8461-4f73-bbe4-78557ca21e19)
+
+![image](https://github.com/fsdkumk/IoT-Parking-System-using-Arduino/assets/141599942/44743270-7fdc-4499-99ec-a1e55ceb78e1)
